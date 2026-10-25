@@ -1,0 +1,45 @@
+{
+ "events": [
+  {
+   "title": "Week 1 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-08",
+   "notes": "Includes Course Introduction, Google Drive/Apps, and Google Forms & Survey the Class (part 1)"
+  },
+  {
+   "title": "Week 2 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-15",
+   "notes": "Includes Windows File Management, Survey the Class (part 2), and Intro to Microsoft Office Spreadsheets (part 1)"
+  },
+  {
+   "title": "Week 3 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-22",
+   "notes": "Includes Spreadsheets (parts 2 & 3), Survey the Class (part 3), and Business Graphics"
+  },
+  {
+   "title": "Week 4 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-29",
+   "notes": "Includes Microsoft OneDrive, Word (parts 1 & 2), PowerPoint, and Internet Technologies (week 1)"
+  },
+  {
+   "title": "Week 5 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-07-02",
+   "notes": "Includes Internet Technologies (Part 2), Microsoft Access & Database Concepts, and Intro to SAP. Due date adjusted to before final."
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2025-07-03",
+   "notes": "Covers material from the entire semester; must be taken on campus."
+  }
+ ],
+ "in_tok": 897,
+ "out_tok": 488,
+ "seconds": 3.411593900003936,
+ "llm_called": true,
+ "retries": 0
+}

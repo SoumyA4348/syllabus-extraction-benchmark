@@ -1,0 +1,93 @@
+{
+ "events": [
+  {
+   "title": "Lectures three hours a week, tutorial one and a half hours a week.",
+   "type": "other",
+   "dueDateISO": "2026-10-18",
+   "notes": null
+  },
+  {
+   "title": "Lectures three hours a week, tutorial one and a half hours a week.",
+   "type": "other",
+   "dueDateISO": "2026-01-01",
+   "notes": null
+  },
+  {
+   "title": "Lectures three hours a week, tutorial one and a half hours a week.",
+   "type": "other",
+   "dueDateISO": "2025-12-25",
+   "notes": null
+  },
+  {
+   "title": "You MUST earn a C- or better in this course to take some required 2nd/3rd year c",
+   "type": "other",
+   "dueDateISO": "2023-10-25",
+   "notes": null
+  },
+  {
+   "title": "Tutorials (optional) 10% bonus 1% each Weekly, starting Monday, Jan 6th",
+   "type": "other",
+   "dueDateISO": "2026-01-06",
+   "notes": null
+  },
+  {
+   "title": "Assignments 60% best 5 of 6 at 12% each Biweekly, usually due Tuesdays at 11pm",
+   "type": "assignment",
+   "dueDateISO": "2012-05-06",
+   "notes": null
+  },
+  {
+   "title": "In-Class Tests 20% best 2 of 3 at 10% each Jan 27, Feb 26, Mar 24",
+   "type": "midterm",
+   "dueDateISO": "2010-02-03",
+   "notes": null
+  },
+  {
+   "title": "In-Class Tests 20% best 2 of 3 at 10% each Jan 27, Feb 26, Mar 24",
+   "type": "midterm",
+   "dueDateISO": "2010-01-27",
+   "notes": null
+  },
+  {
+   "title": "In-Class Tests 20% best 2 of 3 at 10% each Jan 27, Feb 26, Mar 24",
+   "type": "midterm",
+   "dueDateISO": "2010-02-26",
+   "notes": null
+  },
+  {
+   "title": "In-Class Tests 20% best 2 of 3 at 10% each Jan 27, Feb 26, Mar 24",
+   "type": "midterm",
+   "dueDateISO": "2010-03-24",
+   "notes": null
+  },
+  {
+   "title": "75 minutes to 110 minutes. The tutorials will only be available during a week-lo",
+   "type": "assignment",
+   "dueDateISO": "2026-10-25",
+   "notes": null
+  },
+  {
+   "title": "hours and 5 minutes will have a deduction of 13%. After 25 hours ... the deducti",
+   "type": "assignment",
+   "dueDateISO": "2026-10-26",
+   "notes": null
+  },
+  {
+   "title": "not handing anything in. You have 13 days to",
+   "type": "other",
+   "dueDateISO": "2026-10-12",
+   "notes": null
+  },
+  {
+   "title": "instructor. This MUST be done no later than two weeks after the assignment has b",
+   "type": "assignment",
+   "dueDateISO": "2026-11-08",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 3.2463268999999855,
+ "llm_called": false,
+ "retries": 0
+}

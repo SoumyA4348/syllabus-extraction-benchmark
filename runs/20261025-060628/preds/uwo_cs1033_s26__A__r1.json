@@ -1,0 +1,63 @@
+{
+ "events": [
+  {
+   "title": "Quiz 1",
+   "type": "quiz",
+   "dueDateISO": "2026-01-19",
+   "notes": "Section 200 at 7pm, Section 201 at 11:30am"
+  },
+  {
+   "title": "Quiz 2",
+   "type": "quiz",
+   "dueDateISO": "2026-02-02",
+   "notes": "Section 200 at 7pm, Section 201 at 11:30am"
+  },
+  {
+   "title": "Poster Assignment",
+   "type": "assignment",
+   "dueDateISO": "2026-02-06",
+   "notes": "Creation Due"
+  },
+  {
+   "title": "Quiz 3",
+   "type": "quiz",
+   "dueDateISO": "2026-02-23",
+   "notes": "Section 200 at 7pm, Section 201 at 11:30am"
+  },
+  {
+   "title": "Web Assignment",
+   "type": "assignment",
+   "dueDateISO": "2026-03-06",
+   "notes": "Creation Due"
+  },
+  {
+   "title": "Quiz 4",
+   "type": "quiz",
+   "dueDateISO": "2026-03-09",
+   "notes": "Section 200 at 7pm, Section 201 at 11:30am"
+  },
+  {
+   "title": "Quiz 5",
+   "type": "quiz",
+   "dueDateISO": "2026-03-23",
+   "notes": "Section 200 at 7pm, Section 201 at 11:30am"
+  },
+  {
+   "title": "Major Assignment",
+   "type": "assignment",
+   "dueDateISO": "2026-03-27",
+   "notes": "Creation Due"
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2026-04-12",
+   "notes": "Range of exam period is April 12-30"
+  }
+ ],
+ "in_tok": 3264,
+ "out_tok": 635,
+ "seconds": 5.885746399995696,
+ "llm_called": true,
+ "retries": 0
+}

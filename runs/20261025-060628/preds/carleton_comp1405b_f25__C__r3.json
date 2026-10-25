@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "title": "\u2021 The lectures on September 3rd and 4th will be conducted Online via Zoom",
+   "type": "other",
+   "dueDateISO": "2026-09-03",
+   "notes": null
+  },
+  {
+   "title": "\u2020 Starting the week of September 8th, Thursday and Friday lectures will be condu",
+   "type": "other",
+   "dueDateISO": "2026-09-08",
+   "notes": null
+  },
+  {
+   "title": "(released October 9th and November 20th), and a final examination (scheduled by",
+   "type": "final",
+   "dueDateISO": "2026-10-09",
+   "notes": null
+  },
+  {
+   "title": "if and only if all assignments are received and satisfactory by Friday, December",
+   "type": "assignment",
+   "dueDateISO": "2026-12-05",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.006939999999303836,
+ "llm_called": false,
+ "retries": 0
+}

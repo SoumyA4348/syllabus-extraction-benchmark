@@ -1,0 +1,159 @@
+{
+ "events": [
+  {
+   "title": "HW0",
+   "type": "assignment",
+   "dueDateISO": "2025-01-17",
+   "notes": "optional"
+  },
+  {
+   "title": "HW1",
+   "type": "assignment",
+   "dueDateISO": "2025-01-22",
+   "notes": null
+  },
+  {
+   "title": "HW2",
+   "type": "assignment",
+   "dueDateISO": "2025-01-28",
+   "notes": null
+  },
+  {
+   "title": "Quiz 0",
+   "type": "quiz",
+   "dueDateISO": "2025-01-30",
+   "notes": null
+  },
+  {
+   "title": "HW3",
+   "type": "assignment",
+   "dueDateISO": "2025-02-03",
+   "notes": null
+  },
+  {
+   "title": "HW4",
+   "type": "assignment",
+   "dueDateISO": "2025-02-10",
+   "notes": null
+  },
+  {
+   "title": "Exam 1",
+   "type": "midterm",
+   "dueDateISO": "2025-02-14",
+   "notes": "slidesets 1\u20134"
+  },
+  {
+   "title": "HW5",
+   "type": "assignment",
+   "dueDateISO": "2025-02-17",
+   "notes": null
+  },
+  {
+   "title": "Quiz 1",
+   "type": "quiz",
+   "dueDateISO": "2025-02-19",
+   "notes": null
+  },
+  {
+   "title": "HW6",
+   "type": "assignment",
+   "dueDateISO": "2025-02-24",
+   "notes": null
+  },
+  {
+   "title": "Project 1",
+   "type": "project",
+   "dueDateISO": "2025-02-28",
+   "notes": null
+  },
+  {
+   "title": "HW7",
+   "type": "assignment",
+   "dueDateISO": "2025-03-05",
+   "notes": null
+  },
+  {
+   "title": "HW8",
+   "type": "assignment",
+   "dueDateISO": "2025-03-10",
+   "notes": null
+  },
+  {
+   "title": "Quiz 2",
+   "type": "quiz",
+   "dueDateISO": "2025-03-12",
+   "notes": null
+  },
+  {
+   "title": "HW9",
+   "type": "assignment",
+   "dueDateISO": "2025-03-14",
+   "notes": null
+  },
+  {
+   "title": "Exam 2",
+   "type": "midterm",
+   "dueDateISO": "2025-03-28",
+   "notes": "slidesets 1\u20139"
+  },
+  {
+   "title": "HW10",
+   "type": "assignment",
+   "dueDateISO": "2025-03-31",
+   "notes": null
+  },
+  {
+   "title": "Quiz 3",
+   "type": "quiz",
+   "dueDateISO": "2025-04-02",
+   "notes": null
+  },
+  {
+   "title": "HW11",
+   "type": "assignment",
+   "dueDateISO": "2025-04-04",
+   "notes": null
+  },
+  {
+   "title": "Project 2",
+   "type": "project",
+   "dueDateISO": "2025-04-07",
+   "notes": null
+  },
+  {
+   "title": "HW12",
+   "type": "assignment",
+   "dueDateISO": "2025-04-11",
+   "notes": null
+  },
+  {
+   "title": "Quiz 4",
+   "type": "quiz",
+   "dueDateISO": "2025-04-16",
+   "notes": null
+  },
+  {
+   "title": "HW13",
+   "type": "assignment",
+   "dueDateISO": "2025-04-18",
+   "notes": null
+  },
+  {
+   "title": "Project 3",
+   "type": "project",
+   "dueDateISO": "2025-04-21",
+   "notes": null
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2025-05-01",
+   "notes": "slidesets 1-12"
+  }
+ ],
+ "in_tok": 1120,
+ "out_tok": 1285,
+ "seconds": 5.942259200004628,
+ "llm_called": true,
+ "retries": 0
+}

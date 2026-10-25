@@ -1,0 +1,15 @@
+{
+ "events": [
+  {
+   "title": "14 11/24-28 Thanksgiving Week (no classes)",
+   "type": "other",
+   "dueDateISO": "2028-11-24",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.0002331000068807043,
+ "llm_called": false,
+ "retries": 0
+}

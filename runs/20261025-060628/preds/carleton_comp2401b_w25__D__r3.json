@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "In-Class Test 1",
+   "type": "midterm",
+   "dueDateISO": "2025-01-27",
+   "notes": "10% of final grade"
+  },
+  {
+   "title": "In-Class Test 2",
+   "type": "midterm",
+   "dueDateISO": "2025-02-26",
+   "notes": "10% of final grade"
+  },
+  {
+   "title": "In-Class Test 3",
+   "type": "midterm",
+   "dueDateISO": "2025-03-24",
+   "notes": "10% of final grade"
+  }
+ ],
+ "in_tok": 3445,
+ "out_tok": 246,
+ "seconds": 1.2004155999966315,
+ "llm_called": true,
+ "retries": 0
+}

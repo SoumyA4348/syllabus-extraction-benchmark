@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "title": "Last day to withdraw and get a refund",
+   "type": "other",
+   "dueDateISO": "2025-01-23",
+   "notes": null
+  },
+  {
+   "title": "Last day to withdraw from the course without receiving a letter grade",
+   "type": "other",
+   "dueDateISO": "2025-05-06",
+   "notes": null
+  },
+  {
+   "title": "Comprehensive final exam",
+   "type": "final",
+   "dueDateISO": "2025-05-07",
+   "notes": "2:00 to 3:50 pm"
+  },
+  {
+   "title": "Deadline for all late work",
+   "type": "other",
+   "dueDateISO": "2025-05-09",
+   "notes": "No late work accepted after this date"
+  }
+ ],
+ "in_tok": 1353,
+ "out_tok": 296,
+ "seconds": 18.37686450000183,
+ "llm_called": true,
+ "retries": 0
+}

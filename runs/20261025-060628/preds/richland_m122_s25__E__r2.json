@@ -1,0 +1,81 @@
+{
+ "events": [
+  {
+   "title": "The Spring 2025 semester begins January 13 and ends May 9.",
+   "type": "other",
+   "dueDateISO": "2026-01-13",
+   "notes": null
+  },
+  {
+   "title": "The Spring 2025 semester begins January 13 and ends May 9.",
+   "type": "other",
+   "dueDateISO": "2026-05-09",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 January 23 is the last day to withdraw and get a refund.",
+   "type": "other",
+   "dueDateISO": "2026-01-23",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 May 6 is the last day to withdraw from the course without receiving a letter g",
+   "type": "other",
+   "dueDateISO": "2026-05-06",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 The comprehensive final exam is Wednesday, May 7, from 2:00 to 3:50 pm.",
+   "type": "final",
+   "dueDateISO": "2026-05-07",
+   "notes": null
+  },
+  {
+   "title": "attendance. Classroom attendance is recorded to the nearest 10% of a class perio",
+   "type": "other",
+   "dueDateISO": "2026-10-01",
+   "notes": null
+  },
+  {
+   "title": "attendance. Classroom attendance is recorded to the nearest 10% of a class perio",
+   "type": "other",
+   "dueDateISO": "2026-09-30",
+   "notes": null
+  },
+  {
+   "title": "should expect to dedicate a minimum of 12 hours per week to this course.",
+   "type": "other",
+   "dueDateISO": "2026-10-24",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 Edfinity homework and testing platform. Required. 5 months access can be purch",
+   "type": "midterm",
+   "dueDateISO": "2026-05-25",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 Each section has a reading quiz that is due 5 minutes before we start that sec",
+   "type": "quiz",
+   "dueDateISO": "2026-10-25",
+   "notes": null
+  },
+  {
+   "title": "but may be turned in up to a week late with a 10% penalty.",
+   "type": "other",
+   "dueDateISO": "2026-10-18",
+   "notes": null
+  },
+  {
+   "title": "but may be turned in up to a week late with a 10% penalty.",
+   "type": "other",
+   "dueDateISO": "2026-01-10",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.31215460000385065,
+ "llm_called": false,
+ "retries": 0
+}

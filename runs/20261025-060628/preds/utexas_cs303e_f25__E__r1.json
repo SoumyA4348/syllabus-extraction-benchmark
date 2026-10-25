@@ -1,0 +1,225 @@
+{
+ "events": [
+  {
+   "title": "1 8/25 Syllabus; Lecture 0: Computing",
+   "type": "assignment",
+   "dueDateISO": "2025-01-08",
+   "notes": null
+  },
+  {
+   "title": "2 9/1 Lecture 2: Simple Python",
+   "type": "other",
+   "dueDateISO": "2026-09-01",
+   "notes": null
+  },
+  {
+   "title": "3 9/8 Lecture 3: More Simple Python",
+   "type": "other",
+   "dueDateISO": "2026-09-08",
+   "notes": null
+  },
+  {
+   "title": "4 9/15 Lecture 4: Selections",
+   "type": "other",
+   "dueDateISO": "2015-04-09",
+   "notes": null
+  },
+  {
+   "title": "5 9/22 Lecture 5: Loops",
+   "type": "other",
+   "dueDateISO": "2022-05-09",
+   "notes": null
+  },
+  {
+   "title": "9/26 Exam 1 (slidesets 1\u20134)",
+   "type": "midterm",
+   "dueDateISO": "2026-09-26",
+   "notes": null
+  },
+  {
+   "title": "9/26 Exam 1 (slidesets 1\u20134)",
+   "type": "midterm",
+   "dueDateISO": "2026-01-04",
+   "notes": null
+  },
+  {
+   "title": "6 9/29 Lecture 6: Functions",
+   "type": "other",
+   "dueDateISO": "2029-06-09",
+   "notes": null
+  },
+  {
+   "title": "7 10/6 Lecture 7: Objects and Classes",
+   "type": "other",
+   "dueDateISO": "2026-10-06",
+   "notes": null
+  },
+  {
+   "title": "8 10/12 Lecture 8: More on Strings",
+   "type": "other",
+   "dueDateISO": "2012-08-10",
+   "notes": null
+  },
+  {
+   "title": "9 10/20 Lecture 9: Lists",
+   "type": "other",
+   "dueDateISO": "2020-09-10",
+   "notes": null
+  },
+  {
+   "title": "10 10/27 Lecture 10: More on Lists",
+   "type": "other",
+   "dueDateISO": "2027-10-10",
+   "notes": null
+  },
+  {
+   "title": "10/31 Exam 2 (slidesets 1\u20139)",
+   "type": "midterm",
+   "dueDateISO": "2026-10-31",
+   "notes": null
+  },
+  {
+   "title": "10/31 Exam 2 (slidesets 1\u20139)",
+   "type": "midterm",
+   "dueDateISO": "2026-01-09",
+   "notes": null
+  },
+  {
+   "title": "11 11/3 Lecture 11: Tuples, Sets, Dictionaries",
+   "type": "other",
+   "dueDateISO": "2026-11-03",
+   "notes": null
+  },
+  {
+   "title": "12 11/10 Lecture 12: Files",
+   "type": "other",
+   "dueDateISO": "2010-12-11",
+   "notes": null
+  },
+  {
+   "title": "13 11/17 Lecture 13: Recursion",
+   "type": "other",
+   "dueDateISO": "2017-11-13",
+   "notes": null
+  },
+  {
+   "title": "11/24 Thanksgiving Week",
+   "type": "other",
+   "dueDateISO": "2026-11-24",
+   "notes": null
+  },
+  {
+   "title": "14 12/1 Review",
+   "type": "other",
+   "dueDateISO": "2026-12-01",
+   "notes": null
+  },
+  {
+   "title": "12/5 Exam 3 (slidesets 1-13)",
+   "type": "midterm",
+   "dueDateISO": "2026-12-05",
+   "notes": null
+  },
+  {
+   "title": "12/5 Exam 3 (slidesets 1-13)",
+   "type": "midterm",
+   "dueDateISO": "2026-01-13",
+   "notes": null
+  },
+  {
+   "title": "1 Friday, 8/29 optional HW0",
+   "type": "other",
+   "dueDateISO": "2029-01-08",
+   "notes": null
+  },
+  {
+   "title": "2 Wednesday, 9/3 HW1",
+   "type": "other",
+   "dueDateISO": "2026-09-03",
+   "notes": null
+  },
+  {
+   "title": "3 Tuesday, 9/9 HW2",
+   "type": "other",
+   "dueDateISO": "2026-09-09",
+   "notes": null
+  },
+  {
+   "title": "Wednesday, 9/10 Quiz 0",
+   "type": "quiz",
+   "dueDateISO": "2026-09-10",
+   "notes": null
+  },
+  {
+   "title": "6 Tuesday, 9/30 HW5",
+   "type": "other",
+   "dueDateISO": "2030-06-09",
+   "notes": null
+  },
+  {
+   "title": "Wednesday, 10/1 Quiz 1",
+   "type": "quiz",
+   "dueDateISO": "2026-10-01",
+   "notes": null
+  },
+  {
+   "title": "Friday, 10/10 Project 1",
+   "type": "project",
+   "dueDateISO": "2026-10-10",
+   "notes": null
+  },
+  {
+   "title": "8 Wednesday, 10/15 HW7",
+   "type": "other",
+   "dueDateISO": "2015-08-10",
+   "notes": null
+  },
+  {
+   "title": "Wednesday, 10/22 Quiz 2",
+   "type": "quiz",
+   "dueDateISO": "2026-10-22",
+   "notes": null
+  },
+  {
+   "title": "Wednesday, 11/5 Quiz 3",
+   "type": "quiz",
+   "dueDateISO": "2026-11-05",
+   "notes": null
+  },
+  {
+   "title": "12 Friday, 11/14 HW11",
+   "type": "other",
+   "dueDateISO": "2014-12-11",
+   "notes": null
+  },
+  {
+   "title": "13 Monday, 11/17 Project 2",
+   "type": "project",
+   "dueDateISO": "2017-11-13",
+   "notes": null
+  },
+  {
+   "title": "Friday, 11/21 HW12",
+   "type": "other",
+   "dueDateISO": "2026-11-21",
+   "notes": null
+  },
+  {
+   "title": "14 11/24-28 Thanksgiving Week (no classes)",
+   "type": "other",
+   "dueDateISO": "2028-11-24",
+   "notes": null
+  },
+  {
+   "title": "15 Monday, 12/1 Project 3",
+   "type": "project",
+   "dueDateISO": "2026-12-01",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.4154024000017671,
+ "llm_called": false,
+ "retries": 0
+}

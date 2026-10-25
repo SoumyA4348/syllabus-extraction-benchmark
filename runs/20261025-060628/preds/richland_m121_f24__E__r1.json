@@ -1,0 +1,81 @@
+{
+ "events": [
+  {
+   "title": "The Fall 2024 semester begins August 19 and ends December 11.",
+   "type": "other",
+   "dueDateISO": "2026-08-19",
+   "notes": null
+  },
+  {
+   "title": "The Fall 2024 semester begins August 19 and ends December 11.",
+   "type": "other",
+   "dueDateISO": "2026-12-11",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 August 29 is the last day to withdraw and get a refund.",
+   "type": "other",
+   "dueDateISO": "2026-08-29",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 December 6 is the last day to withdraw from the course without receiving a let",
+   "type": "other",
+   "dueDateISO": "2026-12-06",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 The comprehensive final exam is Monday, December 9, from 2:00 to 3:50 pm.",
+   "type": "final",
+   "dueDateISO": "2026-12-09",
+   "notes": null
+  },
+  {
+   "title": "recorded to the nearest 10% of a class period (8.5 minutes).",
+   "type": "other",
+   "dueDateISO": "2026-10-01",
+   "notes": null
+  },
+  {
+   "title": "recorded to the nearest 10% of a class period (8.5 minutes).",
+   "type": "other",
+   "dueDateISO": "2026-09-30",
+   "notes": null
+  },
+  {
+   "title": "dedicate a minimum of 15 hours per week to this course.",
+   "type": "other",
+   "dueDateISO": "2026-10-24",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 Edfinity homework and testing platform. Required. 5 months access can be purch",
+   "type": "midterm",
+   "dueDateISO": "2026-05-25",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 Each section has a reading quiz that is due 5 minutes before we start that sec",
+   "type": "quiz",
+   "dueDateISO": "2026-10-25",
+   "notes": null
+  },
+  {
+   "title": "but may be turned in up to a week late with a 10% penalty.",
+   "type": "other",
+   "dueDateISO": "2026-10-18",
+   "notes": null
+  },
+  {
+   "title": "but may be turned in up to a week late with a 10% penalty.",
+   "type": "other",
+   "dueDateISO": "2026-01-10",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.3248797999985982,
+ "llm_called": false,
+ "retries": 0
+}

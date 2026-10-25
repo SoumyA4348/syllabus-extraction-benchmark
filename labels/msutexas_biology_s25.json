@@ -1,0 +1,62 @@
+[
+ {
+  "dueDateISO": "2025-01-26",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-02",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-09",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-16",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-23",
+  "type": "midterm"
+ },
+ {
+  "dueDateISO": "2025-03-02",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-03-08",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-03-23",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-03-30",
+  "type": "midterm"
+ },
+ {
+  "dueDateISO": "2025-04-06",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-04-16",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-04-27",
+  "type": "midterm"
+ },
+ {
+  "dueDateISO": "2025-05-04",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-05-11",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-05-15",
+  "type": "final"
+ }
+]

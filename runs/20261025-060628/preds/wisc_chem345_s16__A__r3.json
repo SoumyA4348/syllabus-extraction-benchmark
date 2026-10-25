@@ -1,0 +1,99 @@
+{
+ "events": [
+  {
+   "title": "Reading: Chap. 12",
+   "type": "reading",
+   "dueDateISO": "2025-01-20",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 13",
+   "type": "reading",
+   "dueDateISO": "2025-01-25",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 16",
+   "type": "reading",
+   "dueDateISO": "2025-02-03",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 17",
+   "type": "reading",
+   "dueDateISO": "2025-02-12",
+   "notes": null
+  },
+  {
+   "title": "EXAM #1",
+   "type": "midterm",
+   "dueDateISO": "2025-02-17",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 18",
+   "type": "reading",
+   "dueDateISO": "2025-02-22",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 19",
+   "type": "reading",
+   "dueDateISO": "2025-02-26",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 20",
+   "type": "reading",
+   "dueDateISO": "2025-03-09",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 21",
+   "type": "reading",
+   "dueDateISO": "2025-03-14",
+   "notes": null
+  },
+  {
+   "title": "EXAM #2",
+   "type": "midterm",
+   "dueDateISO": "2025-03-16",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 22",
+   "type": "reading",
+   "dueDateISO": "2025-04-01",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 23",
+   "type": "reading",
+   "dueDateISO": "2025-04-15",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 28",
+   "type": "reading",
+   "dueDateISO": "2025-04-22",
+   "notes": null
+  },
+  {
+   "title": "EXAM #3",
+   "type": "midterm",
+   "dueDateISO": "2025-04-27",
+   "notes": null
+  },
+  {
+   "title": "Reading: Chap. 27",
+   "type": "reading",
+   "dueDateISO": "2025-05-04",
+   "notes": null
+  }
+ ],
+ "in_tok": 664,
+ "out_tok": 825,
+ "seconds": 5.56459509999695,
+ "llm_called": true,
+ "retries": 0
+}

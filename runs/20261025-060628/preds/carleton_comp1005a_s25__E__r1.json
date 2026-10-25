@@ -1,0 +1,69 @@
+{
+ "events": [
+  {
+   "title": "Introduction to Computer Science II                                             ",
+   "type": "other",
+   "dueDateISO": "2025-05-06",
+   "notes": null
+  },
+  {
+   "title": "course textbook. You should Expect to spend at least sixteen (16) hours per week",
+   "type": "other",
+   "dueDateISO": "2026-10-24",
+   "notes": null
+  },
+  {
+   "title": "Assignment 1 6 % May 16 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-01-06",
+   "notes": null
+  },
+  {
+   "title": "Assignment 2 7 % May 23 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-02-07",
+   "notes": null
+  },
+  {
+   "title": "Assignment 3 8 % May 30 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-03-08",
+   "notes": null
+  },
+  {
+   "title": "Assignment 4 9 % June 6 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-04-09",
+   "notes": null
+  },
+  {
+   "title": "Assignment 5 10 % June 17 (Tuesday)",
+   "type": "assignment",
+   "dueDateISO": "2026-05-10",
+   "notes": null
+  },
+  {
+   "title": "Short-term ( 5 days or less): contact instructor immediately.",
+   "type": "other",
+   "dueDateISO": "2026-10-20",
+   "notes": null
+  },
+  {
+   "title": "Note: This is a condensed course. Each week is equivalent to two weeks during th",
+   "type": "other",
+   "dueDateISO": "2026-10-11",
+   "notes": null
+  },
+  {
+   "title": "semester. Missing two weeks due to illness in this course is like missing an ent",
+   "type": "assignment",
+   "dueDateISO": "2026-10-11",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.5602748999954201,
+ "llm_called": false,
+ "retries": 0
+}

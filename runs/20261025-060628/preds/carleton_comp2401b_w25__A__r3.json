@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "In-Class Test 1",
+   "type": "midterm",
+   "dueDateISO": "2025-01-27",
+   "notes": "Online during class timeslot."
+  },
+  {
+   "title": "In-Class Test 2",
+   "type": "midterm",
+   "dueDateISO": "2025-02-26",
+   "notes": "Online during class timeslot."
+  },
+  {
+   "title": "In-Class Test 3",
+   "type": "midterm",
+   "dueDateISO": "2025-03-24",
+   "notes": "Online during class timeslot."
+  }
+ ],
+ "in_tok": 2744,
+ "out_tok": 243,
+ "seconds": 3.9931607999969856,
+ "llm_called": true,
+ "retries": 0
+}

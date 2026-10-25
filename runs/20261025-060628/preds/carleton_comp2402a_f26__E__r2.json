@@ -1,0 +1,21 @@
+{
+ "events": [
+  {
+   "title": "(2h)",
+   "type": "other",
+   "dueDateISO": "2026-10-25",
+   "notes": null
+  },
+  {
+   "title": "12-23",
+   "type": "other",
+   "dueDateISO": "2026-12-23",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 2.0481772999992245,
+ "llm_called": false,
+ "retries": 0
+}

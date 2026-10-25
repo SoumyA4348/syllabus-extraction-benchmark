@@ -1,0 +1,63 @@
+{
+ "events": [
+  {
+   "title": "Assignment 01",
+   "type": "assignment",
+   "dueDateISO": "2025-01-17",
+   "notes": "Due Friday"
+  },
+  {
+   "title": "Assignment 02",
+   "type": "assignment",
+   "dueDateISO": "2025-01-31",
+   "notes": "Due Friday"
+  },
+  {
+   "title": "Midterm 1",
+   "type": "midterm",
+   "dueDateISO": "2025-02-05",
+   "notes": "Available Feb 5th and 6th"
+  },
+  {
+   "title": "Assignment 03",
+   "type": "assignment",
+   "dueDateISO": "2025-02-14",
+   "notes": "Due Friday"
+  },
+  {
+   "title": "Assignment 04",
+   "type": "assignment",
+   "dueDateISO": "2025-02-28",
+   "notes": "Due Friday"
+  },
+  {
+   "title": "Assignment 05",
+   "type": "assignment",
+   "dueDateISO": "2025-03-14",
+   "notes": "Due Friday"
+  },
+  {
+   "title": "Midterm 2",
+   "type": "midterm",
+   "dueDateISO": "2025-03-19",
+   "notes": "Available March 19th and 20th"
+  },
+  {
+   "title": "Assignment 06",
+   "type": "assignment",
+   "dueDateISO": "2025-03-28",
+   "notes": "Due Friday"
+  },
+  {
+   "title": "Deadline for all missed assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-04-04",
+   "notes": "Must be received by 11:59pm EST"
+  }
+ ],
+ "in_tok": 3264,
+ "out_tok": 571,
+ "seconds": 54.282381500001065,
+ "llm_called": true,
+ "retries": 1
+}

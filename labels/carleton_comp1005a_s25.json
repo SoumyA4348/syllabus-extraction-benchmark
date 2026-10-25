@@ -1,0 +1,30 @@
+[
+ {
+  "dueDateISO": "2025-05-16",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-05-23",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-05-30",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-06-06",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-06-17",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-05-28",
+  "type": "other"
+ },
+ {
+  "dueDateISO": "2025-05-28",
+  "type": "midterm"
+ }
+]

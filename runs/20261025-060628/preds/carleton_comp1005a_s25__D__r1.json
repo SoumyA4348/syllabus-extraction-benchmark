@@ -1,0 +1,51 @@
+{
+ "events": [
+  {
+   "title": "Introduction to Computer Science II",
+   "type": "other",
+   "dueDateISO": "2025-05-06",
+   "notes": null
+  },
+  {
+   "title": "Assignment 1 6 % May 16 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-05-16",
+   "notes": null
+  },
+  {
+   "title": "Assignment 2 7 % May 23 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-05-23",
+   "notes": null
+  },
+  {
+   "title": "Midterm Study Proof 2 % May 28 (Wednesday)",
+   "type": "midterm",
+   "dueDateISO": "2026-05-28",
+   "notes": null
+  },
+  {
+   "title": "Assignment 3 8 % May 30 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-05-30",
+   "notes": null
+  },
+  {
+   "title": "Assignment 4 9 % June 6 (Friday)",
+   "type": "assignment",
+   "dueDateISO": "2026-06-06",
+   "notes": null
+  },
+  {
+   "title": "Assignment 5 10 % June 17 (Tuesday)",
+   "type": "assignment",
+   "dueDateISO": "2026-06-17",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.0007838000019546598,
+ "llm_called": false,
+ "retries": 0
+}

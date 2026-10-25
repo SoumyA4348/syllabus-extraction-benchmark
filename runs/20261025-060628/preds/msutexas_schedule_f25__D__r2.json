@@ -1,0 +1,207 @@
+{
+ "events": [
+  {
+   "title": "Read Me First Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-08-27",
+   "notes": null
+  },
+  {
+   "title": "Environmental Issues Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-09-02",
+   "notes": null
+  },
+  {
+   "title": "Readings Assignment 1 (Desert Solitaire)",
+   "type": "assignment",
+   "dueDateISO": "2025-09-04",
+   "notes": null
+  },
+  {
+   "title": "Chem and Energy Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-09-09",
+   "notes": null
+  },
+  {
+   "title": "Sustainability Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-09-11",
+   "notes": null
+  },
+  {
+   "title": "Geoscience Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-09-16",
+   "notes": null
+  },
+  {
+   "title": "Dead Zones Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-09-18",
+   "notes": null
+  },
+  {
+   "title": "Atmosphere Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-09-23",
+   "notes": null
+  },
+  {
+   "title": "Readings Assignment 2 (Storm Spirit)",
+   "type": "assignment",
+   "dueDateISO": "2025-09-25",
+   "notes": null
+  },
+  {
+   "title": "Population Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-09-30",
+   "notes": null
+  },
+  {
+   "title": "Population Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-10-02",
+   "notes": null
+  },
+  {
+   "title": "Ecosystems Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-10-07",
+   "notes": null
+  },
+  {
+   "title": "Readings Assignment 3 (Stalking Muskrats)",
+   "type": "assignment",
+   "dueDateISO": "2025-10-09",
+   "notes": null
+  },
+  {
+   "title": "Biomes and Landscapes Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-10-14",
+   "notes": null
+  },
+  {
+   "title": "Readings Assignment 4 (The Sun\u2019s Home)",
+   "type": "assignment",
+   "dueDateISO": "2025-10-16",
+   "notes": null
+  },
+  {
+   "title": "Biodiversity Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-10-21",
+   "notes": null
+  },
+  {
+   "title": "Test 1",
+   "type": "midterm",
+   "dueDateISO": "2025-10-23",
+   "notes": null
+  },
+  {
+   "title": "Extra Credit Discussion (Hurricane Sandy)",
+   "type": "other",
+   "dueDateISO": "2025-10-23",
+   "notes": "Optional"
+  },
+  {
+   "title": "Forests Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-10-28",
+   "notes": null
+  },
+  {
+   "title": "Tourism Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-10-30",
+   "notes": null
+  },
+  {
+   "title": "Agriculture Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-11-04",
+   "notes": null
+  },
+  {
+   "title": "Cutting Carbon Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-11-06",
+   "notes": null
+  },
+  {
+   "title": "Water Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-11-11",
+   "notes": null
+  },
+  {
+   "title": "Green Deserts Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-11-13",
+   "notes": null
+  },
+  {
+   "title": "Air Quality Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-11-18",
+   "notes": null
+  },
+  {
+   "title": "Readings Assignment 5 (Clan of the One-breasted Women)",
+   "type": "assignment",
+   "dueDateISO": "2025-11-20",
+   "notes": null
+  },
+  {
+   "title": "Thanksgiving Week Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-11-25",
+   "notes": null
+  },
+  {
+   "title": "Thanksgiving Week Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-11-25",
+   "notes": null
+  },
+  {
+   "title": "Nonrenewable Energy Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-11-26",
+   "notes": null
+  },
+  {
+   "title": "Path for Energy Development in Africa Discussion",
+   "type": "assignment",
+   "dueDateISO": "2025-11-26",
+   "notes": null
+  },
+  {
+   "title": "Renewable Energy Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-12-05",
+   "notes": null
+  },
+  {
+   "title": "Test 2",
+   "type": "final",
+   "dueDateISO": "2025-12-09",
+   "notes": null
+  },
+  {
+   "title": "Extra Credit Discussion",
+   "type": "other",
+   "dueDateISO": "2025-12-09",
+   "notes": "Optional"
+  }
+ ],
+ "in_tok": 1449,
+ "out_tok": 1696,
+ "seconds": 30.376233999995748,
+ "llm_called": true,
+ "retries": 0
+}

@@ -1,0 +1,51 @@
+{
+ "events": [
+  {
+   "title": "Assignment 1",
+   "type": "assignment",
+   "dueDateISO": "2025-05-16",
+   "notes": null
+  },
+  {
+   "title": "Assignment 2",
+   "type": "assignment",
+   "dueDateISO": "2025-05-23",
+   "notes": null
+  },
+  {
+   "title": "Midterm Study Proof",
+   "type": "midterm",
+   "dueDateISO": "2025-05-28",
+   "notes": null
+  },
+  {
+   "title": "Midterm",
+   "type": "midterm",
+   "dueDateISO": "2025-05-28",
+   "notes": "Tutorial cancelled this week."
+  },
+  {
+   "title": "Assignment 3",
+   "type": "assignment",
+   "dueDateISO": "2025-05-30",
+   "notes": null
+  },
+  {
+   "title": "Assignment 4",
+   "type": "assignment",
+   "dueDateISO": "2025-06-06",
+   "notes": null
+  },
+  {
+   "title": "Assignment 5",
+   "type": "assignment",
+   "dueDateISO": "2025-06-17",
+   "notes": null
+  }
+ ],
+ "in_tok": 2463,
+ "out_tok": 416,
+ "seconds": 8.668076699999801,
+ "llm_called": true,
+ "retries": 0
+}

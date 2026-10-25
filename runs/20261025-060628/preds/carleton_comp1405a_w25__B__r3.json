@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "Midterm Quiz 1",
+   "type": "midterm",
+   "dueDateISO": "2025-02-06",
+   "notes": "Available Feb 5th and 6th"
+  },
+  {
+   "title": "Midterm Quiz 2",
+   "type": "midterm",
+   "dueDateISO": "2025-03-20",
+   "notes": "Available March 19th and 20th"
+  },
+  {
+   "title": "Final Deadline for Satisfactory Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-04-04",
+   "notes": "All 6 assignments must be deemed satisfactory by this date"
+  }
+ ],
+ "in_tok": 4453,
+ "out_tok": 261,
+ "seconds": 1.070048500005214,
+ "llm_called": true,
+ "retries": 0
+}

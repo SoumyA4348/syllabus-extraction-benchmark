@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "In-Class Test 1",
+   "type": "midterm",
+   "dueDateISO": "2025-01-27",
+   "notes": "Held during class timeslot; online using remote proctoring."
+  },
+  {
+   "title": "In-Class Test 2",
+   "type": "midterm",
+   "dueDateISO": "2025-02-26",
+   "notes": "Held during class timeslot; online using remote proctoring."
+  },
+  {
+   "title": "In-Class Test 3",
+   "type": "midterm",
+   "dueDateISO": "2025-03-24",
+   "notes": "Held during class timeslot; online using remote proctoring."
+  }
+ ],
+ "in_tok": 2744,
+ "out_tok": 264,
+ "seconds": 7.247514100003173,
+ "llm_called": true,
+ "retries": 0
+}

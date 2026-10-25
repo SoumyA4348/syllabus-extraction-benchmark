@@ -1,0 +1,39 @@
+{
+ "events": [
+  {
+   "title": "Google Forms & Survey the Class (part 1)",
+   "type": "assignment",
+   "dueDateISO": "2025-06-08",
+   "notes": "Due at the end of the day on Sunday"
+  },
+  {
+   "title": "Survey the Class (part 2)",
+   "type": "assignment",
+   "dueDateISO": "2025-06-15",
+   "notes": "Due at the end of the day on Sunday"
+  },
+  {
+   "title": "Survey the Class (part 3)",
+   "type": "assignment",
+   "dueDateISO": "2025-06-22",
+   "notes": "Due at the end of the day on Sunday"
+  },
+  {
+   "title": "Internet Technologies (week 1) assignment",
+   "type": "assignment",
+   "dueDateISO": "2025-06-29",
+   "notes": "Due at the end of the day on Sunday"
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2025-07-03",
+   "notes": "Covers material from the entire semester; must be taken on campus"
+  }
+ ],
+ "in_tok": 897,
+ "out_tok": 379,
+ "seconds": 2.972959599996102,
+ "llm_called": true,
+ "retries": 0
+}

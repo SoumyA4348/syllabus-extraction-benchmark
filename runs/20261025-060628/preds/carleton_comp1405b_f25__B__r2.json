@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "title": "Midterm Quiz 1",
+   "type": "midterm",
+   "dueDateISO": "2025-10-09",
+   "notes": "Available October 9th and 10th"
+  },
+  {
+   "title": "Midterm Quiz 2",
+   "type": "midterm",
+   "dueDateISO": "2025-11-20",
+   "notes": "Available November 20th and 21st"
+  },
+  {
+   "title": "Final Assignment Submission Cut-off",
+   "type": "assignment",
+   "dueDateISO": "2025-12-05",
+   "notes": "All assignments must be received by this date to be eligible for the best 5 of 6 grading rule."
+  },
+  {
+   "title": "Final Examination",
+   "type": "final",
+   "dueDateISO": "2025-12-31",
+   "notes": "Date to be determined by the Registrar."
+  }
+ ],
+ "in_tok": 4887,
+ "out_tok": 327,
+ "seconds": 3.068495300001814,
+ "llm_called": true,
+ "retries": 0
+}

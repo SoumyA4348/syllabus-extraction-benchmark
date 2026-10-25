@@ -1,0 +1,99 @@
+{
+ "events": [
+  {
+   "title": "Module 1 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-01-26",
+   "notes": null
+  },
+  {
+   "title": "Module 2 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-02-02",
+   "notes": null
+  },
+  {
+   "title": "Module 3 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-02-09",
+   "notes": null
+  },
+  {
+   "title": "Module 4 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-02-16",
+   "notes": null
+  },
+  {
+   "title": "Exam 1: Modules 1-4",
+   "type": "midterm",
+   "dueDateISO": "2025-02-23",
+   "notes": null
+  },
+  {
+   "title": "Module 5 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-03-02",
+   "notes": null
+  },
+  {
+   "title": "Module 6 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-03-08",
+   "notes": null
+  },
+  {
+   "title": "Module 7 & 8 Study Plans & Quizzes",
+   "type": "quiz",
+   "dueDateISO": "2025-03-23",
+   "notes": null
+  },
+  {
+   "title": "Exam 2: Modules 5-8",
+   "type": "midterm",
+   "dueDateISO": "2025-03-30",
+   "notes": null
+  },
+  {
+   "title": "Module 9 & 10 Study Plans & Quizzes",
+   "type": "quiz",
+   "dueDateISO": "2025-04-06",
+   "notes": null
+  },
+  {
+   "title": "Module 11 & 12 Study Plans & Quizzes",
+   "type": "quiz",
+   "dueDateISO": "2025-04-16",
+   "notes": null
+  },
+  {
+   "title": "Exam 3: Modules 9-11",
+   "type": "midterm",
+   "dueDateISO": "2025-04-27",
+   "notes": null
+  },
+  {
+   "title": "Module 13 Study Plan & Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-05-04",
+   "notes": null
+  },
+  {
+   "title": "Module 14 & 15 Study Plans & Quizzes",
+   "type": "quiz",
+   "dueDateISO": "2025-05-11",
+   "notes": null
+  },
+  {
+   "title": "Exam 4: Modules 12-15",
+   "type": "final",
+   "dueDateISO": "2025-05-15",
+   "notes": null
+  }
+ ],
+ "in_tok": 1031,
+ "out_tok": 866,
+ "seconds": 2.108746899997641,
+ "llm_called": true,
+ "retries": 0
+}

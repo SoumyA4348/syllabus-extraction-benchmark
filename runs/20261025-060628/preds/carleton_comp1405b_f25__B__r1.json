@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "Midterm Quiz 1",
+   "type": "midterm",
+   "dueDateISO": "2025-10-09",
+   "notes": "Available October 9th and October 10th"
+  },
+  {
+   "title": "Midterm Quiz 2",
+   "type": "midterm",
+   "dueDateISO": "2025-11-20",
+   "notes": "Available November 20th and November 21st"
+  },
+  {
+   "title": "Assignment 06 Final Deadline",
+   "type": "assignment",
+   "dueDateISO": "2025-12-05",
+   "notes": "All missed assignments must be received by this date for the best 5 of 6 rule."
+  }
+ ],
+ "in_tok": 4887,
+ "out_tok": 271,
+ "seconds": 26.9367865000022,
+ "llm_called": true,
+ "retries": 0
+}

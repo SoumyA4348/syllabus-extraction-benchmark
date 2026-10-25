@@ -1,0 +1,279 @@
+{
+ "events": [
+  {
+   "title": "20 January    Chap. 12 11 March",
+   "type": "other",
+   "dueDateISO": "2026-01-20",
+   "notes": null
+  },
+  {
+   "title": "20 January    Chap. 12 11 March",
+   "type": "other",
+   "dueDateISO": "2026-03-12",
+   "notes": null
+  },
+  {
+   "title": "22 January   14 March Chap. 21",
+   "type": "other",
+   "dueDateISO": "2026-01-22",
+   "notes": null
+  },
+  {
+   "title": "22 January   14 March Chap. 21",
+   "type": "other",
+   "dueDateISO": "2026-03-14",
+   "notes": null
+  },
+  {
+   "title": "25 January Chap. 13 16 March - EXAM #2",
+   "type": "midterm",
+   "dueDateISO": "2026-01-25",
+   "notes": null
+  },
+  {
+   "title": "25 January Chap. 13 16 March - EXAM #2",
+   "type": "midterm",
+   "dueDateISO": "2016-03-13",
+   "notes": null
+  },
+  {
+   "title": "27 January  18 March",
+   "type": "other",
+   "dueDateISO": "2026-01-27",
+   "notes": null
+  },
+  {
+   "title": "27 January  18 March",
+   "type": "other",
+   "dueDateISO": "2026-03-18",
+   "notes": null
+  },
+  {
+   "title": "29 January   21-25 March \u2013 Spring Break",
+   "type": "other",
+   "dueDateISO": "2026-01-29",
+   "notes": null
+  },
+  {
+   "title": "29 January   21-25 March \u2013 Spring Break",
+   "type": "other",
+   "dueDateISO": "2025-03-21",
+   "notes": null
+  },
+  {
+   "title": "1 February   28 March",
+   "type": "other",
+   "dueDateISO": "2026-02-01",
+   "notes": null
+  },
+  {
+   "title": "1 February   28 March",
+   "type": "other",
+   "dueDateISO": "2026-03-28",
+   "notes": null
+  },
+  {
+   "title": "3 February Chap. 16 30 March",
+   "type": "other",
+   "dueDateISO": "2026-02-03",
+   "notes": null
+  },
+  {
+   "title": "3 February Chap. 16 30 March",
+   "type": "other",
+   "dueDateISO": "2030-03-16",
+   "notes": null
+  },
+  {
+   "title": "5 February  1 April Chap. 22",
+   "type": "other",
+   "dueDateISO": "2026-02-05",
+   "notes": null
+  },
+  {
+   "title": "5 February  1 April Chap. 22",
+   "type": "other",
+   "dueDateISO": "2026-04-01",
+   "notes": null
+  },
+  {
+   "title": "7 February  4 April",
+   "type": "other",
+   "dueDateISO": "2026-02-07",
+   "notes": null
+  },
+  {
+   "title": "7 February  4 April",
+   "type": "other",
+   "dueDateISO": "2026-04-04",
+   "notes": null
+  },
+  {
+   "title": "10 February  6 April",
+   "type": "other",
+   "dueDateISO": "2026-02-10",
+   "notes": null
+  },
+  {
+   "title": "10 February  6 April",
+   "type": "other",
+   "dueDateISO": "2026-04-06",
+   "notes": null
+  },
+  {
+   "title": "12 February Chap. 17 8 April",
+   "type": "other",
+   "dueDateISO": "2026-02-12",
+   "notes": null
+  },
+  {
+   "title": "12 February Chap. 17 8 April",
+   "type": "other",
+   "dueDateISO": "2026-04-08",
+   "notes": null
+  },
+  {
+   "title": "15 February  11 April",
+   "type": "other",
+   "dueDateISO": "2026-02-15",
+   "notes": null
+  },
+  {
+   "title": "15 February  11 April",
+   "type": "other",
+   "dueDateISO": "2026-04-11",
+   "notes": null
+  },
+  {
+   "title": "17 February - EXAM #1 13 April",
+   "type": "midterm",
+   "dueDateISO": "2026-02-17",
+   "notes": null
+  },
+  {
+   "title": "17 February - EXAM #1 13 April",
+   "type": "midterm",
+   "dueDateISO": "2026-04-01",
+   "notes": null
+  },
+  {
+   "title": "19 February  15 April Chap. 23",
+   "type": "other",
+   "dueDateISO": "2026-02-19",
+   "notes": null
+  },
+  {
+   "title": "19 February  15 April Chap. 23",
+   "type": "other",
+   "dueDateISO": "2026-04-15",
+   "notes": null
+  },
+  {
+   "title": "22 February Chap. 18 18 April",
+   "type": "other",
+   "dueDateISO": "2026-02-22",
+   "notes": null
+  },
+  {
+   "title": "22 February Chap. 18 18 April",
+   "type": "other",
+   "dueDateISO": "2018-04-18",
+   "notes": null
+  },
+  {
+   "title": "24 February  20 April",
+   "type": "other",
+   "dueDateISO": "2026-02-24",
+   "notes": null
+  },
+  {
+   "title": "24 February  20 April",
+   "type": "other",
+   "dueDateISO": "2026-04-20",
+   "notes": null
+  },
+  {
+   "title": "26 February Chap. 19 22 April Chap. 28",
+   "type": "other",
+   "dueDateISO": "2026-02-26",
+   "notes": null
+  },
+  {
+   "title": "26 February Chap. 19 22 April Chap. 28",
+   "type": "other",
+   "dueDateISO": "2022-04-19",
+   "notes": null
+  },
+  {
+   "title": "29 February  25 April",
+   "type": "other",
+   "dueDateISO": "2024-02-29",
+   "notes": null
+  },
+  {
+   "title": "29 February  25 April",
+   "type": "other",
+   "dueDateISO": "2024-04-25",
+   "notes": null
+  },
+  {
+   "title": "2 March  27 April - EXAM #3",
+   "type": "midterm",
+   "dueDateISO": "2026-03-02",
+   "notes": null
+  },
+  {
+   "title": "2 March  27 April - EXAM #3",
+   "type": "midterm",
+   "dueDateISO": "2026-04-27",
+   "notes": null
+  },
+  {
+   "title": "4  March   29 April",
+   "type": "other",
+   "dueDateISO": "2026-03-04",
+   "notes": null
+  },
+  {
+   "title": "4  March   29 April",
+   "type": "other",
+   "dueDateISO": "2026-04-29",
+   "notes": null
+  },
+  {
+   "title": "7 March   2 May",
+   "type": "other",
+   "dueDateISO": "2026-03-07",
+   "notes": null
+  },
+  {
+   "title": "7 March   2 May",
+   "type": "other",
+   "dueDateISO": "2026-05-02",
+   "notes": null
+  },
+  {
+   "title": "9 March Chap. 20 4 May  Chap. 27",
+   "type": "other",
+   "dueDateISO": "2026-03-09",
+   "notes": null
+  },
+  {
+   "title": "9 March Chap. 20 4 May  Chap. 27",
+   "type": "other",
+   "dueDateISO": "2026-05-04",
+   "notes": null
+  },
+  {
+   "title": "6 May",
+   "type": "other",
+   "dueDateISO": "2026-05-06",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.4993873999992502,
+ "llm_called": false,
+ "retries": 0
+}

@@ -1,0 +1,93 @@
+{
+ "events": [
+  {
+   "title": "Quiz 1",
+   "type": "quiz",
+   "dueDateISO": "2026-01-19",
+   "notes": "Section 200 (7pm-9pm)"
+  },
+  {
+   "title": "Quiz 1",
+   "type": "quiz",
+   "dueDateISO": "2026-01-21",
+   "notes": "Section 201 (11:30am-1:30pm)"
+  },
+  {
+   "title": "Quiz 2",
+   "type": "quiz",
+   "dueDateISO": "2026-02-02",
+   "notes": "Section 200 (7pm-9pm)"
+  },
+  {
+   "title": "Quiz 2",
+   "type": "quiz",
+   "dueDateISO": "2026-02-04",
+   "notes": "Section 201 (11:30am-1:30pm)"
+  },
+  {
+   "title": "Poster Assignment",
+   "type": "assignment",
+   "dueDateISO": "2026-02-06",
+   "notes": null
+  },
+  {
+   "title": "Quiz 3",
+   "type": "quiz",
+   "dueDateISO": "2026-02-23",
+   "notes": "Section 200 (7pm-9pm)"
+  },
+  {
+   "title": "Quiz 3",
+   "type": "quiz",
+   "dueDateISO": "2026-02-25",
+   "notes": "Section 201 (11:30am-1:30pm)"
+  },
+  {
+   "title": "Web Assignment",
+   "type": "assignment",
+   "dueDateISO": "2026-03-06",
+   "notes": null
+  },
+  {
+   "title": "Quiz 4",
+   "type": "quiz",
+   "dueDateISO": "2026-03-09",
+   "notes": "Section 200 (7pm-9pm)"
+  },
+  {
+   "title": "Quiz 4",
+   "type": "quiz",
+   "dueDateISO": "2026-03-11",
+   "notes": "Section 201 (11:30am-1:30pm)"
+  },
+  {
+   "title": "Quiz 5",
+   "type": "quiz",
+   "dueDateISO": "2026-03-23",
+   "notes": "Section 200 (7pm-9pm)"
+  },
+  {
+   "title": "Quiz 5",
+   "type": "quiz",
+   "dueDateISO": "2026-03-25",
+   "notes": "Section 201 (11:30am-1:30pm)"
+  },
+  {
+   "title": "Major Assignment",
+   "type": "assignment",
+   "dueDateISO": "2026-03-27",
+   "notes": null
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2026-04-12",
+   "notes": "Exam period is April 12-30"
+  }
+ ],
+ "in_tok": 3264,
+ "out_tok": 899,
+ "seconds": 49.25328929999523,
+ "llm_called": true,
+ "retries": 2
+}

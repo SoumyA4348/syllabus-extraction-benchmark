@@ -1,0 +1,45 @@
+{
+ "events": [
+  {
+   "title": "Week 1 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-08",
+   "notes": "Assignments for week 1 due at the end of the day."
+  },
+  {
+   "title": "Week 2 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-15",
+   "notes": "Assignments for week 2 due at the end of the day."
+  },
+  {
+   "title": "Week 3 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-22",
+   "notes": "Assignments for week 3 due at the end of the day."
+  },
+  {
+   "title": "Week 4 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-06-29",
+   "notes": "Assignments for week 4 due at the end of the day."
+  },
+  {
+   "title": "Week 5 Assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-07-06",
+   "notes": "Assignments for week 5 due at the end of the day."
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2025-07-03",
+   "notes": "Must be taken on campus."
+  }
+ ],
+ "in_tok": 664,
+ "out_tok": 429,
+ "seconds": 21.8858601000029,
+ "llm_called": true,
+ "retries": 0
+}

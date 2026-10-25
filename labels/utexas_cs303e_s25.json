@@ -1,0 +1,98 @@
+[
+ {
+  "dueDateISO": "2025-01-22",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-01-28",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-01-30",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-03",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-02-10",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-02-14",
+  "type": "midterm"
+ },
+ {
+  "dueDateISO": "2025-02-17",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-02-19",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-24",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-02-28",
+  "type": "project"
+ },
+ {
+  "dueDateISO": "2025-03-05",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-03-10",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-03-12",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-03-14",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-03-28",
+  "type": "midterm"
+ },
+ {
+  "dueDateISO": "2025-03-31",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-04-02",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-04-04",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-04-07",
+  "type": "project"
+ },
+ {
+  "dueDateISO": "2025-04-11",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-04-16",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-04-18",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-04-21",
+  "type": "project"
+ },
+ {
+  "dueDateISO": "2025-05-01",
+  "type": "final"
+ }
+]

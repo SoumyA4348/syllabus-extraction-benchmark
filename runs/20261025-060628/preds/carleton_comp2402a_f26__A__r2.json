@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "Test 1",
+   "type": "midterm",
+   "dueDateISO": "2026-10-16",
+   "notes": "Scheduled by SES between October 16-18 (2h)"
+  },
+  {
+   "title": "Test 2",
+   "type": "midterm",
+   "dueDateISO": "2026-11-27",
+   "notes": "Scheduled by SES between November 27-29 (2h)"
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2026-12-12",
+   "notes": "Scheduled by Carleton between December 12-23 (2h)"
+  }
+ ],
+ "in_tok": 4824,
+ "out_tok": 271,
+ "seconds": 2.3351171999966027,
+ "llm_called": true,
+ "retries": 0
+}

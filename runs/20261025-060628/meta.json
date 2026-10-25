@@ -1,0 +1,32 @@
+{
+ "run_id": "20261025-060628",
+ "model": "gemini-3.1-flash-lite",
+ "min_events": 3,
+ "repeats": 3,
+ "strategies": [
+  "A",
+  "B",
+  "C",
+  "D",
+  "E"
+ ],
+ "files": [
+  "carleton_comp1005a_s25.pdf",
+  "carleton_comp1405a_w25.pdf",
+  "carleton_comp1405b_f25.pdf",
+  "carleton_comp2401b_w25.pdf",
+  "carleton_comp2402a_f26.pdf",
+  "lamar_bcis1305_su25.pdf",
+  "msutexas_biology_s25.pdf",
+  "msutexas_schedule_f25.pdf",
+  "richland_m121_f24.pdf",
+  "richland_m122_s25.pdf",
+  "ucalgary_cpsc217_f25.pdf",
+  "ucalgary_cpsc217_s25.pdf",
+  "utexas_cs303e_f25.pdf",
+  "utexas_cs303e_s25.pdf",
+  "uwo_cs1033_s26.pdf",
+  "wisc_chem345_s16.pdf"
+ ],
+ "pypdf": "6.21.2"
+}

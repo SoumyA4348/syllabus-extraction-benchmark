@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "title": "\u2021 The lecture on Monday, January 6th will be conducted Online via Zoom",
+   "type": "other",
+   "dueDateISO": "2026-01-06",
+   "notes": null
+  },
+  {
+   "title": "\u2020 Starting the week of January 13th, Wednesday lectures will be conducted Online",
+   "type": "other",
+   "dueDateISO": "2026-01-13",
+   "notes": null
+  },
+  {
+   "title": "(released February 5th and March 19th), and a final examination (scheduled by th",
+   "type": "final",
+   "dueDateISO": "2026-02-05",
+   "notes": null
+  },
+  {
+   "title": "if and only if all 6 assignments are deemed satisfactory before Friday, April 4t",
+   "type": "assignment",
+   "dueDateISO": "2026-04-04",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.005578199998126365,
+ "llm_called": false,
+ "retries": 0
+}

@@ -1,0 +1,27 @@
+{
+ "events": [
+  {
+   "title": "Test 1",
+   "type": "midterm",
+   "dueDateISO": "2026-10-16",
+   "notes": "Scheduled between October 16-18"
+  },
+  {
+   "title": "Test 2",
+   "type": "midterm",
+   "dueDateISO": "2026-11-27",
+   "notes": "Scheduled between November 27-29"
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2026-12-12",
+   "notes": "Scheduled between December 12-23"
+  }
+ ],
+ "in_tok": 12672,
+ "out_tok": 254,
+ "seconds": 1.350121700001182,
+ "llm_called": true,
+ "retries": 0
+}

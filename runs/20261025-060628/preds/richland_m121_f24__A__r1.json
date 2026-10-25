@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "title": "Last day to withdraw and get a refund",
+   "type": "other",
+   "dueDateISO": "2024-08-29",
+   "notes": null
+  },
+  {
+   "title": "Last day to withdraw without receiving a letter grade",
+   "type": "other",
+   "dueDateISO": "2024-12-06",
+   "notes": null
+  },
+  {
+   "title": "Comprehensive final exam",
+   "type": "final",
+   "dueDateISO": "2024-12-09",
+   "notes": "2:00 to 3:50 pm"
+  },
+  {
+   "title": "Final deadline for all course work",
+   "type": "other",
+   "dueDateISO": "2024-12-11",
+   "notes": "No late work accepted after this date."
+  }
+ ],
+ "in_tok": 1184,
+ "out_tok": 295,
+ "seconds": 12.692726699999184,
+ "llm_called": true,
+ "retries": 0
+}

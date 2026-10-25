@@ -1,0 +1,45 @@
+{
+ "events": [
+  {
+   "title": "Assignment 1",
+   "type": "assignment",
+   "dueDateISO": "2025-07-08",
+   "notes": null
+  },
+  {
+   "title": "Midterm",
+   "type": "midterm",
+   "dueDateISO": "2025-07-14",
+   "notes": "09:00 am, 90 Minutes, in-person in Lecture room"
+  },
+  {
+   "title": "Assignment 2",
+   "type": "assignment",
+   "dueDateISO": "2025-07-15",
+   "notes": null
+  },
+  {
+   "title": "Assignment 3",
+   "type": "assignment",
+   "dueDateISO": "2025-07-22",
+   "notes": null
+  },
+  {
+   "title": "Assignment 4",
+   "type": "assignment",
+   "dueDateISO": "2025-07-29",
+   "notes": null
+  },
+  {
+   "title": "Final Exam",
+   "type": "final",
+   "dueDateISO": "2025-07-30",
+   "notes": "09:00 am, 120 Minutes, in-person in Lecture room"
+  }
+ ],
+ "in_tok": 2224,
+ "out_tok": 405,
+ "seconds": 48.290743999998085,
+ "llm_called": true,
+ "retries": 0
+}

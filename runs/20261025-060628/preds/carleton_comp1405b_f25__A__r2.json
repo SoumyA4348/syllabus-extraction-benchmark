@@ -1,0 +1,63 @@
+{
+ "events": [
+  {
+   "title": "Assignment 1",
+   "type": "assignment",
+   "dueDateISO": "2025-09-12",
+   "notes": "Due Friday; cut-off deadline is Sunday, 2025-09-14"
+  },
+  {
+   "title": "Assignment 2",
+   "type": "assignment",
+   "dueDateISO": "2025-10-03",
+   "notes": "Due Friday; cut-off deadline is Sunday, 2025-10-05"
+  },
+  {
+   "title": "Midterm 1",
+   "type": "midterm",
+   "dueDateISO": "2025-10-09",
+   "notes": "Available October 9th and October 10th on Brightspace"
+  },
+  {
+   "title": "Assignment 3",
+   "type": "assignment",
+   "dueDateISO": "2025-10-17",
+   "notes": "Due Friday; cut-off deadline is Sunday, 2025-10-19"
+  },
+  {
+   "title": "Assignment 4",
+   "type": "assignment",
+   "dueDateISO": "2025-10-31",
+   "notes": "Due Friday; cut-off deadline is Sunday, 2025-11-02"
+  },
+  {
+   "title": "Assignment 5",
+   "type": "assignment",
+   "dueDateISO": "2025-11-14",
+   "notes": "Due Friday; cut-off deadline is Sunday, 2025-11-16"
+  },
+  {
+   "title": "Midterm 2",
+   "type": "midterm",
+   "dueDateISO": "2025-11-20",
+   "notes": "Available November 20th and November 21st on Brightspace"
+  },
+  {
+   "title": "Assignment 6",
+   "type": "assignment",
+   "dueDateISO": "2025-11-28",
+   "notes": "Due Friday; cut-off deadline is Sunday, 2025-11-30"
+  },
+  {
+   "title": "Final Deadline for all assignments",
+   "type": "assignment",
+   "dueDateISO": "2025-12-05",
+   "notes": "Final date for all assignments to be received to be eligible for best-of-six calculation"
+  }
+ ],
+ "in_tok": 3264,
+ "out_tok": 694,
+ "seconds": 13.022595700000238,
+ "llm_called": true,
+ "retries": 0
+}

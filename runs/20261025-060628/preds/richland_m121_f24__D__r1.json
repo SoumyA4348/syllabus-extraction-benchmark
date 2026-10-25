@@ -1,0 +1,39 @@
+{
+ "events": [
+  {
+   "title": "The Fall 2024 semester begins August 19 and ends December 11.",
+   "type": "other",
+   "dueDateISO": "2026-08-19",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 August 29 is the last day to withdraw and get a refund.",
+   "type": "other",
+   "dueDateISO": "2026-08-29",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 December 6 is the last day to withdraw from the course without receiving a let",
+   "type": "other",
+   "dueDateISO": "2026-12-06",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 The comprehensive final exam is Monday, December 9, from 2:00 to 3:50 pm.",
+   "type": "final",
+   "dueDateISO": "2026-12-09",
+   "notes": null
+  },
+  {
+   "title": "\u25a0 No late work will be accepted after December 11.",
+   "type": "other",
+   "dueDateISO": "2026-12-11",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.001984399998036679,
+ "llm_called": false,
+ "retries": 0
+}

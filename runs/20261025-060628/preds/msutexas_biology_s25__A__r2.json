@@ -1,0 +1,99 @@
+{
+ "events": [
+  {
+   "title": "Study Plan & Quiz (Module 1)",
+   "type": "quiz",
+   "dueDateISO": "2025-01-26",
+   "notes": null
+  },
+  {
+   "title": "Study Plan & Quiz (Module 2)",
+   "type": "quiz",
+   "dueDateISO": "2025-02-02",
+   "notes": null
+  },
+  {
+   "title": "Study Plan & Quiz (Module 3)",
+   "type": "quiz",
+   "dueDateISO": "2025-02-09",
+   "notes": null
+  },
+  {
+   "title": "Module 4 Quiz",
+   "type": "quiz",
+   "dueDateISO": "2025-02-16",
+   "notes": "Opens Feb 10"
+  },
+  {
+   "title": "Exam 1: Modules 1-4",
+   "type": "midterm",
+   "dueDateISO": "2025-02-23",
+   "notes": "Opens Feb 17"
+  },
+  {
+   "title": "Study Plan & Quiz (Module 5)",
+   "type": "quiz",
+   "dueDateISO": "2025-03-02",
+   "notes": null
+  },
+  {
+   "title": "Study Plan & Quiz (Module 6)",
+   "type": "quiz",
+   "dueDateISO": "2025-03-08",
+   "notes": null
+  },
+  {
+   "title": "Study Plans & Quizzes (Modules 7-8)",
+   "type": "quiz",
+   "dueDateISO": "2025-03-23",
+   "notes": null
+  },
+  {
+   "title": "Exam 2: Modules 5-8",
+   "type": "midterm",
+   "dueDateISO": "2025-03-30",
+   "notes": "Opens March 24"
+  },
+  {
+   "title": "Study Plans & Quizzes (Modules 9-10)",
+   "type": "quiz",
+   "dueDateISO": "2025-04-06",
+   "notes": null
+  },
+  {
+   "title": "Study Plans & Quizzes (Modules 11-12)",
+   "type": "quiz",
+   "dueDateISO": "2025-04-16",
+   "notes": null
+  },
+  {
+   "title": "Exam 3: Modules 9-11",
+   "type": "midterm",
+   "dueDateISO": "2025-04-27",
+   "notes": "Opens April 21"
+  },
+  {
+   "title": "Study Plan & Quiz (Module 13)",
+   "type": "quiz",
+   "dueDateISO": "2025-05-04",
+   "notes": null
+  },
+  {
+   "title": "Study Plans & Quizzes (Modules 14-15)",
+   "type": "quiz",
+   "dueDateISO": "2025-05-11",
+   "notes": null
+  },
+  {
+   "title": "Exam 4: Modules 12-15",
+   "type": "final",
+   "dueDateISO": "2025-05-15",
+   "notes": "Opens May 12"
+  }
+ ],
+ "in_tok": 1184,
+ "out_tok": 898,
+ "seconds": 26.367595099996834,
+ "llm_called": true,
+ "retries": 0
+}

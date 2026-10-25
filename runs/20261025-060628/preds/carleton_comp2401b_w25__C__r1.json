@@ -1,0 +1,21 @@
+{
+ "events": [
+  {
+   "title": "Tutorials (optional) 10% bonus 1% each Weekly, starting Monday, Jan 6th",
+   "type": "other",
+   "dueDateISO": "2026-01-06",
+   "notes": null
+  },
+  {
+   "title": "In-Class Tests 20% best 2 of 3 at 10% each Jan 27, Feb 26, Mar 24",
+   "type": "midterm",
+   "dueDateISO": "2026-01-27",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.009581799997249618,
+ "llm_called": false,
+ "retries": 0
+}

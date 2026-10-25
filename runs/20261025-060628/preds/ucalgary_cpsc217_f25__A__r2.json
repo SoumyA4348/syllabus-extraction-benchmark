@@ -1,0 +1,21 @@
+{
+ "events": [
+  {
+   "title": "Midterm 1",
+   "type": "midterm",
+   "dueDateISO": "2025-10-04",
+   "notes": "6:30 pm, duration 60 minutes"
+  },
+  {
+   "title": "Midterm 2",
+   "type": "midterm",
+   "dueDateISO": "2025-11-01",
+   "notes": "6:30 pm, duration 60 minutes"
+  }
+ ],
+ "in_tok": 2224,
+ "out_tok": 153,
+ "seconds": 3.334807599996566,
+ "llm_called": true,
+ "retries": 0
+}

@@ -1,0 +1,405 @@
+{
+ "events": [
+  {
+   "title": "8/25 to 8/29",
+   "type": "other",
+   "dueDateISO": "2026-08-25",
+   "notes": null
+  },
+  {
+   "title": "8/25 to 8/29",
+   "type": "other",
+   "dueDateISO": "2026-08-29",
+   "notes": null
+  },
+  {
+   "title": "(Chap. 1 and 2)",
+   "type": "other",
+   "dueDateISO": "2026-01-02",
+   "notes": null
+  },
+  {
+   "title": "Quiz is due 8/27 (due",
+   "type": "quiz",
+   "dueDateISO": "2026-08-27",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 9/2",
+   "type": "quiz",
+   "dueDateISO": "2026-09-02",
+   "notes": null
+  },
+  {
+   "title": "RA due 9/4",
+   "type": "assignment",
+   "dueDateISO": "2026-09-04",
+   "notes": null
+  },
+  {
+   "title": "9/1- to 9/5",
+   "type": "other",
+   "dueDateISO": "2026-09-01",
+   "notes": null
+  },
+  {
+   "title": "9/1- to 9/5",
+   "type": "other",
+   "dueDateISO": "2026-09-05",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 9/9",
+   "type": "quiz",
+   "dueDateISO": "2026-09-09",
+   "notes": null
+  },
+  {
+   "title": "Discussion due 9/11",
+   "type": "assignment",
+   "dueDateISO": "2026-09-11",
+   "notes": null
+  },
+  {
+   "title": "9/8 to 9/12",
+   "type": "other",
+   "dueDateISO": "2026-09-08",
+   "notes": null
+  },
+  {
+   "title": "9/8 to 9/12",
+   "type": "other",
+   "dueDateISO": "2026-09-12",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 9/16",
+   "type": "quiz",
+   "dueDateISO": "2026-09-16",
+   "notes": null
+  },
+  {
+   "title": "Discussion due 9/18",
+   "type": "assignment",
+   "dueDateISO": "2026-09-18",
+   "notes": null
+  },
+  {
+   "title": "9/15 to 9/19",
+   "type": "other",
+   "dueDateISO": "2026-09-15",
+   "notes": null
+  },
+  {
+   "title": "9/15 to 9/19",
+   "type": "other",
+   "dueDateISO": "2026-09-19",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 9/23",
+   "type": "quiz",
+   "dueDateISO": "2026-09-23",
+   "notes": null
+  },
+  {
+   "title": "RA due 9/25",
+   "type": "assignment",
+   "dueDateISO": "2026-09-25",
+   "notes": null
+  },
+  {
+   "title": "9/22 to 9/26",
+   "type": "other",
+   "dueDateISO": "2026-09-22",
+   "notes": null
+  },
+  {
+   "title": "9/22 to 9/26",
+   "type": "other",
+   "dueDateISO": "2026-09-26",
+   "notes": null
+  },
+  {
+   "title": "Read Chap. 4 and 5 and View",
+   "type": "other",
+   "dueDateISO": "2026-04-05",
+   "notes": null
+  },
+  {
+   "title": "Discussion due 10/2",
+   "type": "assignment",
+   "dueDateISO": "2026-10-02",
+   "notes": null
+  },
+  {
+   "title": "9/29 to 10/3",
+   "type": "other",
+   "dueDateISO": "2026-09-29",
+   "notes": null
+  },
+  {
+   "title": "9/29 to 10/3",
+   "type": "other",
+   "dueDateISO": "2026-10-03",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 10/7",
+   "type": "quiz",
+   "dueDateISO": "2026-10-07",
+   "notes": null
+  },
+  {
+   "title": "RA due 10/9",
+   "type": "assignment",
+   "dueDateISO": "2026-10-09",
+   "notes": null
+  },
+  {
+   "title": "10/6 to 10/10",
+   "type": "other",
+   "dueDateISO": "2026-10-06",
+   "notes": null
+  },
+  {
+   "title": "10/6 to 10/10",
+   "type": "other",
+   "dueDateISO": "2026-10-10",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 10/14",
+   "type": "quiz",
+   "dueDateISO": "2026-10-14",
+   "notes": null
+  },
+  {
+   "title": "RA due 10/16",
+   "type": "assignment",
+   "dueDateISO": "2026-10-16",
+   "notes": null
+  },
+  {
+   "title": "10/13 to",
+   "type": "other",
+   "dueDateISO": "2026-10-13",
+   "notes": null
+  },
+  {
+   "title": "10/17",
+   "type": "other",
+   "dueDateISO": "2026-10-17",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 10/21",
+   "type": "quiz",
+   "dueDateISO": "2026-10-21",
+   "notes": null
+  },
+  {
+   "title": "Test due 10/23",
+   "type": "midterm",
+   "dueDateISO": "2026-10-23",
+   "notes": null
+  },
+  {
+   "title": "10/23",
+   "type": "other",
+   "dueDateISO": "2026-10-23",
+   "notes": null
+  },
+  {
+   "title": "10/20 to 10/24",
+   "type": "other",
+   "dueDateISO": "2026-10-20",
+   "notes": null
+  },
+  {
+   "title": "10/20 to 10/24",
+   "type": "other",
+   "dueDateISO": "2026-10-24",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 10/28",
+   "type": "quiz",
+   "dueDateISO": "2026-10-28",
+   "notes": null
+  },
+  {
+   "title": "10/30",
+   "type": "other",
+   "dueDateISO": "2026-10-30",
+   "notes": null
+  },
+  {
+   "title": "10/27 to 10/31",
+   "type": "other",
+   "dueDateISO": "2026-10-27",
+   "notes": null
+  },
+  {
+   "title": "10/27 to 10/31",
+   "type": "other",
+   "dueDateISO": "2026-10-31",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 11/4",
+   "type": "quiz",
+   "dueDateISO": "2026-11-04",
+   "notes": null
+  },
+  {
+   "title": "Discussion due 11/6",
+   "type": "assignment",
+   "dueDateISO": "2026-11-06",
+   "notes": null
+  },
+  {
+   "title": "11/3 to 11/7",
+   "type": "other",
+   "dueDateISO": "2026-11-03",
+   "notes": null
+  },
+  {
+   "title": "11/3 to 11/7",
+   "type": "other",
+   "dueDateISO": "2026-11-07",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 11/11",
+   "type": "quiz",
+   "dueDateISO": "2026-11-11",
+   "notes": null
+  },
+  {
+   "title": "11/13",
+   "type": "other",
+   "dueDateISO": "2026-11-13",
+   "notes": null
+  },
+  {
+   "title": "11/10 to 11/14",
+   "type": "other",
+   "dueDateISO": "2026-11-10",
+   "notes": null
+  },
+  {
+   "title": "11/10 to 11/14",
+   "type": "other",
+   "dueDateISO": "2026-11-14",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 11/18",
+   "type": "quiz",
+   "dueDateISO": "2026-11-18",
+   "notes": null
+  },
+  {
+   "title": "RA due 11/20",
+   "type": "assignment",
+   "dueDateISO": "2026-11-20",
+   "notes": null
+  },
+  {
+   "title": "11/17 to 11/21",
+   "type": "other",
+   "dueDateISO": "2026-11-17",
+   "notes": null
+  },
+  {
+   "title": "11/17 to 11/21",
+   "type": "other",
+   "dueDateISO": "2026-11-21",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 11/26",
+   "type": "quiz",
+   "dueDateISO": "2026-11-26",
+   "notes": null
+  },
+  {
+   "title": "11/26 (due earlier",
+   "type": "assignment",
+   "dueDateISO": "2026-11-26",
+   "notes": null
+  },
+  {
+   "title": "11/24 to 11/28",
+   "type": "other",
+   "dueDateISO": "2026-11-24",
+   "notes": null
+  },
+  {
+   "title": "11/24 to 11/28",
+   "type": "other",
+   "dueDateISO": "2026-11-28",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 11/25",
+   "type": "quiz",
+   "dueDateISO": "2026-11-25",
+   "notes": null
+  },
+  {
+   "title": "11/25",
+   "type": "other",
+   "dueDateISO": "2026-11-25",
+   "notes": null
+  },
+  {
+   "title": "12/1 to 12/5",
+   "type": "other",
+   "dueDateISO": "2026-12-01",
+   "notes": null
+  },
+  {
+   "title": "12/1 to 12/5",
+   "type": "other",
+   "dueDateISO": "2026-12-05",
+   "notes": null
+  },
+  {
+   "title": "Quiz due 12/5 (due",
+   "type": "quiz",
+   "dueDateISO": "2026-12-05",
+   "notes": null
+  },
+  {
+   "title": "Test 2 due 12/9",
+   "type": "midterm",
+   "dueDateISO": "2026-12-09",
+   "notes": null
+  },
+  {
+   "title": "due 12/9",
+   "type": "assignment",
+   "dueDateISO": "2026-12-09",
+   "notes": null
+  },
+  {
+   "title": "12/8 to 12/12",
+   "type": "other",
+   "dueDateISO": "2026-12-08",
+   "notes": null
+  },
+  {
+   "title": "12/8 to 12/12",
+   "type": "other",
+   "dueDateISO": "2026-12-12",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.4277607000040007,
+ "llm_called": false,
+ "retries": 0
+}

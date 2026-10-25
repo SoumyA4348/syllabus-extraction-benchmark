@@ -1,0 +1,57 @@
+{
+ "events": [
+  {
+   "title": "Midterm Quiz 1",
+   "type": "midterm",
+   "dueDateISO": "2025-02-06",
+   "notes": "Available Feb 5th and 6th"
+  },
+  {
+   "title": "Midterm Quiz 2",
+   "type": "midterm",
+   "dueDateISO": "2025-03-20",
+   "notes": "Available March 19th and 20th"
+  },
+  {
+   "title": "Assignment 01",
+   "type": "assignment",
+   "dueDateISO": "2025-01-17",
+   "notes": "Friday due date"
+  },
+  {
+   "title": "Assignment 02",
+   "type": "assignment",
+   "dueDateISO": "2025-01-31",
+   "notes": "Friday due date"
+  },
+  {
+   "title": "Assignment 03",
+   "type": "assignment",
+   "dueDateISO": "2025-02-14",
+   "notes": "Friday due date"
+  },
+  {
+   "title": "Assignment 04",
+   "type": "assignment",
+   "dueDateISO": "2025-03-14",
+   "notes": "Friday due date"
+  },
+  {
+   "title": "Assignment 05",
+   "type": "assignment",
+   "dueDateISO": "2025-03-28",
+   "notes": "Friday due date"
+  },
+  {
+   "title": "Assignment 06",
+   "type": "assignment",
+   "dueDateISO": "2025-04-04",
+   "notes": "Friday due date; Final deadline for all missed assignments"
+  }
+ ],
+ "in_tok": 4453,
+ "out_tok": 523,
+ "seconds": 4.193780800000241,
+ "llm_called": true,
+ "retries": 0
+}

@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "title": "Electronically Approved - Aug 05 2025 15:23",
+   "type": "other",
+   "dueDateISO": "2025-08-05",
+   "notes": null
+  },
+  {
+   "title": "2025-08-14",
+   "type": "other",
+   "dueDateISO": "2025-08-14",
+   "notes": null
+  },
+  {
+   "title": "Saturday, October 4, 2025 at 6:30 pm",
+   "type": "other",
+   "dueDateISO": "2025-10-04",
+   "notes": null
+  },
+  {
+   "title": "Saturday, November 1, 2025 at 6:30 pm",
+   "type": "other",
+   "dueDateISO": "2025-11-01",
+   "notes": null
+  }
+ ],
+ "in_tok": 0,
+ "out_tok": 0,
+ "seconds": 0.005488499999046326,
+ "llm_called": false,
+ "retries": 0
+}

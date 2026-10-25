@@ -1,0 +1,38 @@
+[
+ {
+  "dueDateISO": "2025-01-17",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-01-31",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-02-06",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-02-14",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-02-28",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-03-14",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-03-20",
+  "type": "quiz"
+ },
+ {
+  "dueDateISO": "2025-03-28",
+  "type": "assignment"
+ },
+ {
+  "dueDateISO": "2025-04-04",
+  "type": "other"
+ }
+]
