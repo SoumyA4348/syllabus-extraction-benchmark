@@ -4,6 +4,8 @@ Cost and accuracy of five ways to pull deadlines out of course syllabus PDFs: ru
 
 **16 public syllabi · 5 strategies · 3 repeats · `gemini-3.1-flash-lite` · run 2026-10-25 · 0 failed calls**
 
+**Paper (preprint):** Patel, S. (2026). *Cheap First, Ask the LLM Later? Cost and Accuracy of Rule-Based, Native-PDF, and Text-Based LLM Extraction of Syllabus Deadlines.* Preprints. https://www.preprints.org/manuscript/202610.2704/v1 (DOI: 10.20944/preprints202610.2704.v1)
+
 ## Strategies
 
 | ID | Strategy | LLM call? |
@@ -65,3 +67,16 @@ python sweep.py <run_id>                            # hybrid-router threshold sw
 
 ## License
 MIT (code, labels, results). Syllabi remain the property of their institutions.
+
+## Citation
+
+```bibtex
+@misc{patel2026cheapfirst,
+  author    = {Patel, Soumya},
+  title     = {Cheap First, Ask the LLM Later? Cost and Accuracy of Rule-Based, Native-PDF, and Text-Based LLM Extraction of Syllabus Deadlines},
+  year      = {2026},
+  publisher = {Preprints},
+  doi       = {10.20944/preprints202610.2704.v1},
+  url       = {https://www.preprints.org/manuscript/202610.2704/v1}
+}
+```
